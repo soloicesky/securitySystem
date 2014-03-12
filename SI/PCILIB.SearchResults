@@ -1,0 +1,2 @@
+---- recoverTMK Matches (1 in 1 files) ----
+PCI.c (sources):static int recoverTMK(unsigned char tmkIndex, unsigned char *plainTMK)
